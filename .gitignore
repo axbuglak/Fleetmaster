@@ -12,7 +12,7 @@
 *.jstack
 *.swp
 *.swo
-/src/main/resources/application-*.properties
+src/main/resources/application.properties
 
 # Compile logs
 hs_err_pid*
